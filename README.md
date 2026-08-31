@@ -294,16 +294,6 @@ The Dashboard Pages.
 ![Amazon Insights and Recommendations Page](https://github.com/user-attachments/assets/6518f521-3954-477a-84f6-7d45b0a979ad)
 
 
-## Project Files
-
-```text
-Amazon-Sales-Data-Analysis/
-│
-├── Dataset
-├── Excel Analysis
-├── Dashboard
-└── README.md
-```
 
 
 
